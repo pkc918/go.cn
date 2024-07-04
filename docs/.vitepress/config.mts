@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/git.cn/',
+  base: '/go.cn/',
   title: "Go编程语言",
   description: "Go是一个开源的编程语言，可以轻松构建简单、可靠且高效的软件。",
   themeConfig: {
