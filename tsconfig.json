@@ -1,20 +1,27 @@
 {
   "compilerOptions": {
+    "incremental": false,
     "target": "esnext",
     "jsx": "preserve",
-    "lib": ["DOM", "ESNext"],
+    "lib": ["esnext", "dom"],
+    "baseUrl": ".",
     "module": "esnext",
-    "moduleResolution": "node",
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
-    "types": ["vite/client", "vitepress"],
+    "types": ["vite/client", "node", "vitest/globals"],
+    "allowImportingTsExtensions": true,
+
+    /* Linting */
     "strict": true,
+    "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
+    "noUnusedParameters": true,
+    "noEmit": true,
+    "isolatedModules": true,
     "skipLibCheck": true
   },
-  "exclude": [
-    "dist",
-    "node_modules"
-  ]
+  "include": ["docs/**/*.ts", "docs/**/*.d.ts", "docs/**/*.tsx", "docs/**/*.vue"],
+  "exclude": ["node_modules"]
 }

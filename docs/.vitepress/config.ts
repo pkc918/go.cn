@@ -8,7 +8,7 @@ const WhyGo: (DefaultTheme.NavItemChildren | DefaultTheme.NavItemWithLink)[] = [
   {text: "Security", link: "/"}
 ];
 const Docs: (DefaultTheme.NavItemChildren | DefaultTheme.NavItemWithLink)[] = [
-  {text: "Effective Go", link: "/"},
+  {text: "Effective Go", link: "/docs/effective-go"},
   {text: "Go User Manual", link: "/"},
   {text: "Standard library", link: "/"},
   {text: "Release Notes", link: "/"},
@@ -28,9 +28,10 @@ const nav: DefaultTheme.NavItem[] = [
   {text: "Packages", link: "/"},
   {text: "Community", items: Community},
 ];
+
 const sidebar = {
-  '/guide': [{
-    text: '你好', items: nav
+  "/docs": [{
+    text: "你好", items: Docs
   }]
 }
 
@@ -41,6 +42,7 @@ export default defineConfig({
   description: "Go是一个开源的编程语言，可以轻松构建简单、可靠且高效的软件。",
   themeConfig: {
     logo: "/logo.svg",
+    outline: [2, 3],
     // https://vitepress.dev/reference/default-theme-config
     nav,
 
@@ -49,7 +51,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/golang' },
       { icon: 'twitter', link: 'https://x.com/golang?mx=2' },
-    ]
+    ],
   },
   vite: {
     plugins: [UnoCSS()],
