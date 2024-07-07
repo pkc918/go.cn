@@ -1,5 +1,25 @@
-# Vue 3 + TypeScript + Vite
+<p align="center">
+  <img src="./docs/public/go.svg" width="180" height="180"/>
+</p>
+<h1 align="center">
+go.cn
+</h1>
+<p align="center">
+🖥️ Go 官方文档的中文译版（社区维护）！
+</p>
+<p align="center">
+<a href="https://pkc918.github.io/go.cn/" target="_blank">go.cn website</a>
+</p>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Contributing
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Developers interested in contributing should read the [Code of Conduct](./CODE_OF_CONDUCT.md) and the [Contributing Guide](./CONTRIBUTING.md).
+
+Thanks to everyone who has already contributed to go.cn !
+
+<a href="https://github.com/cn-docs/go.cn/contributors"><img src="https://contributors.nn.ci/api?repo=cn-docs/go.cn" /></a>
+
+
+## Thanks
+
+- [effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en)
