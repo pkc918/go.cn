@@ -1,5 +1,5 @@
 ---
-title: Effective Go
+title: Go 文档目录
 lang: zh-CN
 ---
 

@@ -8,10 +8,15 @@ const WhyGo: (DefaultTheme.NavItemChildren | DefaultTheme.NavItemWithLink)[] = [
   {text: "Security", link: "/"}
 ];
 const Docs: (DefaultTheme.NavItemChildren | DefaultTheme.NavItemWithLink)[] = [
-  {text: "Effective Go", link: "/docs/effective-go"},
+  {text: "Effective Go", link: "/docs/effective-go/menus"},
   {text: "Go User Manual", link: "/"},
   {text: "Standard library", link: "/"},
   {text: "Release Notes", link: "/"},
+];
+const DocsContent: (DefaultTheme.NavItemChildren | DefaultTheme.NavItemWithLink)[] = [
+  {text: "整体目录", link: "/docs/effective-go/menus"},
+  {text: "介绍", link: "/docs/effective-go/introduction"},
+  {text: "格式化", link: "/docs/effective-go/formatting"},
 ];
 const Community: (DefaultTheme.NavItemChildren | DefaultTheme.NavItemWithLink)[] = [
   {text: "Recorded Talks", link: "/"},
@@ -31,7 +36,7 @@ const nav: DefaultTheme.NavItem[] = [
 
 const sidebar = {
   "/docs": [{
-    text: "你好", items: Docs
+    text: "Go文档", items: DocsContent
   }]
 }
 
