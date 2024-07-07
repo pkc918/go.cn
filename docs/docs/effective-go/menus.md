@@ -16,7 +16,7 @@ lang: zh-CN
                     <dt><a href="./introduction">介绍</a></dt>
                     <dd><a href="./introduction#例子">示例</a></dd>
                     <dt><a href="./formatting">格式化</a></dt>
-                    <dt><a href="#commentary">Commentary</a></dt>
+                    <dt><a href="./commentary">注释</a></dt>
                     <dt><a href="#names">Names</a></dt>
                     <dd><a href="#package-names">Package names</a></dd>
                     <dd><a href="#Getters">Getters</a></dd>
