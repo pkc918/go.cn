@@ -29,10 +29,10 @@ lang: zh-CN
                     <dd><a href="./control-structures#for">For</a></dd>
                     <dd><a href="./control-structures#switch">Switch</a></dd>
                     <dd><a href="./control-structures#type_switch">Type switch</a></dd>
-                    <dt><a href="#functions">Functions</a></dt>
-                    <dd><a href="#multiple-returns">Multiple return values</a></dd>
-                    <dd><a href="#named-results">Named result parameters</a></dd>
-                    <dd><a href="#defer">Defer</a></dd>
+                    <dt><a href="./functions">函数</a></dt>
+                    <dd><a href="./functions#多返回值">多返回值</a></dd>
+                    <dd><a href="./functions#可命名结果形参">可命名结果形参</a></dd>
+                    <dd><a href="./functions#defer">Defer</a></dd>
                     <dt><a href="#data">Data</a></dt>
                     <dd><a href="#allocation_new">Allocation with new</a></dd>
                     <dd><a href="#composite_literals">Constructors and composite literals</a></dd>
