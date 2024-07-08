@@ -18,11 +18,11 @@ lang: zh-CN
                     <dt><a href="./formatting">格式化</a></dt>
                     <dt><a href="./commentary">注释</a></dt>
                     <dt><a href="./names">命名</a></dt>
-                    <dd><a href="#package-names">Package names</a></dd>
-                    <dd><a href="#Getters">Getters</a></dd>
-                    <dd><a href="#interface-names">Interface names</a></dd>
-                    <dd><a href="#mixed-caps">MixedCaps</a></dd>
-                    <dt><a href="#semicolons">Semicolons</a></dt>
+                    <dd><a href="./names#包名">包名</a></dd>
+                    <dd><a href="./names#获取器">获取器</a></dd>
+                    <dd><a href="./names#接口名">接口名</a></dd>
+                    <dd><a href="./names#驼峰命名法">驼峰命名法</a></dd>
+                    <dt><a href="./semicolons">分号</a></dt>
                     <dt><a href="#control-structures">Control structures</a></dt>
                     <dd><a href="#if">If</a></dd>
                     <dd><a href="#redeclaration">Redeclaration and reassignment</a></dd>
