@@ -48,8 +48,8 @@ lang: zh-CN
                     <dd><a href="./initialization#常数">常数</a></dd>
                     <dd><a href="./initialization#变量">变量</a></dd>
                     <dd><a href="./initialization#init函数">init函数</a></dd>
-                    <dt><a href="#methods">Methods</a></dt>
-                    <dd><a href="#pointers_vs_values">Pointers vs. Values</a></dd>
+                    <dt><a href="./methods">方法</a></dt>
+                    <dd><a href="./methods#指针_vs_值">指针 vs. 值</a></dd>
                     <dt><a href="#interfaces_and_types">Interfaces and other types</a></dt>
                     <dd><a href="#interfaces">Interfaces</a></dd>
                     <dd><a href="#conversions">Conversions</a></dd>
