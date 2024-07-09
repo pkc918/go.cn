@@ -33,16 +33,16 @@ lang: zh-CN
                     <dd><a href="./functions#多返回值">多返回值</a></dd>
                     <dd><a href="./functions#可命名结果形参">可命名结果形参</a></dd>
                     <dd><a href="./functions#defer">Defer</a></dd>
-                    <dt><a href="#data">Data</a></dt>
-                    <dd><a href="#allocation_new">Allocation with new</a></dd>
-                    <dd><a href="#composite_literals">Constructors and composite literals</a></dd>
-                    <dd><a href="#allocation_make">Allocation with make</a></dd>
-                    <dd><a href="#arrays">Arrays</a></dd>
-                    <dd><a href="#slices">Slices</a></dd>
-                    <dd><a href="#two_dimensional_slices">Two-dimensional slices</a></dd>
-                    <dd><a href="#maps">Maps</a></dd>
-                    <dd><a href="#printing">Printing</a></dd>
-                    <dd><a href="#append">Append</a></dd>
+                    <dt><a href="./data">数据</a></dt>
+                    <dd><a href="./data#new分配">new 分配</a></dd>
+                    <dd><a href="./data#构造函数与复合字面量">构造函数与复合字面量</a></dd>
+                    <dd><a href="./data#make分配">make 分配</a></dd>
+                    <dd><a href="./data#数组">数组</a></dd>
+                    <dd><a href="./data#切片">切片</a></dd>
+                    <dd><a href="./data#二维切片">二维切片</a></dd>
+                    <dd><a href="./data#映射">映射</a></dd>
+                    <dd><a href="./data#打印">打印</a></dd>
+                    <dd><a href="./data#追加">追加</a></dd>
                     <dt><a href="#initialization">Initialization</a></dt>
                     </dl></td><td><dl>
                     <dd><a href="#constants">Constants</a></dd>
