@@ -72,7 +72,7 @@ lang: zh-CN
                     <dt><a href="./errors">错误</a></dt>
                     <dd><a href="./errors#Panic">Panic</a></dd>
                     <dd><a href="./errors#Recover">Recover</a></dd>
-                    <dt><a href="#web_server">A web server</a></dt>
+                    <dt><a href="./web_server">一个 Web 服务器</a></dt>
                 </dl>
             </td>
         </tr>
