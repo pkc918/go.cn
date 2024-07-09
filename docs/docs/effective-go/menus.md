@@ -61,7 +61,7 @@ lang: zh-CN
                     <dd><a href="./blank#未使用的导入和变量">未使用的导入和变量</a></dd>
                     <dd><a href="./blank#为副作用而导入">为副作用而导入</a></dd>
                     <dd><a href="./blank#接口检查">接口检查</a></dd>
-                    <dt><a href="#embedding">Embedding</a></dt>
+                    <dt><a href="#embedding">内嵌</a></dt>
                     <dt><a href="#concurrency">Concurrency</a></dt>
                     <dd><a href="#sharing">Share by communicating</a></dd>
                     <dd><a href="#goroutines">Goroutines</a></dd>
