@@ -56,11 +56,11 @@ lang: zh-CN
                     <dd><a href="./interfaces_and_types#接口转换和类型断言">接口转换和类型断言</a></dd>
                     <dd><a href="./interfaces_and_types#通用性">通用性</a></dd>
                     <dd><a href="./interfaces_and_types#接口和方法">接口和方法</a></dd>
-                    <dt><a href="#blank">The blank identifier</a></dt>
-                    <dd><a href="#blank_assign">The blank identifier in multiple assignment</a></dd>
-                    <dd><a href="#blank_unused">Unused imports and variables</a></dd>
-                    <dd><a href="#blank_import">Import for side effect</a></dd>
-                    <dd><a href="#blank_implements">Interface checks</a></dd>
+                    <dt><a href="./blank">空白标识符</a></dt>
+                    <dd><a href="./blank#多重赋值中的空白标识符">多重赋值中的空白标识符</a></dd>
+                    <dd><a href="./blank#未使用的导入和变量">未使用的导入和变量</a></dd>
+                    <dd><a href="./blank#为副作用而导入">为副作用而导入</a></dd>
+                    <dd><a href="./blank#接口检查">接口检查</a></dd>
                     <dt><a href="#embedding">Embedding</a></dt>
                     <dt><a href="#concurrency">Concurrency</a></dt>
                     <dd><a href="#sharing">Share by communicating</a></dd>
