@@ -69,9 +69,9 @@ lang: zh-CN
                     <dd><a href="./concurrency#信道中的信道">信道中的信道</a></dd>
                     <dd><a href="./concurrency#并行化">并行化</a></dd>
                     <dd><a href="./concurrency#漏桶模型">漏桶模型</a></dd>
-                    <dt><a href="#errors">Errors</a></dt>
-                    <dd><a href="#panic">Panic</a></dd>
-                    <dd><a href="#recover">Recover</a></dd>
+                    <dt><a href="./errors">错误</a></dt>
+                    <dd><a href="./errors#Panic">Panic</a></dd>
+                    <dd><a href="./errors#Recover">Recover</a></dd>
                     <dt><a href="#web_server">A web server</a></dt>
                 </dl>
             </td>
