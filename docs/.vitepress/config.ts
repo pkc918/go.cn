@@ -72,6 +72,7 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://x.com/golang?mx=2' },
     ],
   },
+  ignoreDeadLinks: true,
   vite: {
     plugins: [UnoCSS()],
   }
