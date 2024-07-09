@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /markdown-examples
+      link: /docs/effective-go/menus
     - theme: alt
       text: 下载
-      link: /api-examples
+      link: https://go.dev/dl/
 
 features:
   - icon: ☁️
