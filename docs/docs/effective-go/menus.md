@@ -43,11 +43,11 @@ lang: zh-CN
                     <dd><a href="./data#映射">映射</a></dd>
                     <dd><a href="./data#打印">打印</a></dd>
                     <dd><a href="./data#追加">追加</a></dd>
-                    <dt><a href="#initialization">Initialization</a></dt>
+                    <dt><a href="./initialization">初始化</a></dt>
                     </dl></td><td><dl>
-                    <dd><a href="#constants">Constants</a></dd>
-                    <dd><a href="#variables">Variables</a></dd>
-                    <dd><a href="#init">The init function</a></dd>
+                    <dd><a href="./initialization#常数">常数</a></dd>
+                    <dd><a href="./initialization#变量">变量</a></dd>
+                    <dd><a href="./initialization#init函数">init函数</a></dd>
                     <dt><a href="#methods">Methods</a></dt>
                     <dd><a href="#pointers_vs_values">Pointers vs. Values</a></dd>
                     <dt><a href="#interfaces_and_types">Interfaces and other types</a></dt>
